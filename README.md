@@ -1,8 +1,7 @@
 # CTSSystem
 
 ## Description
-
-The **CTSSystem** is an Android application that show informations about your Android device.
+Android application that show information about your Android device.
 
 ## Screenshots
 
